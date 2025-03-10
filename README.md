@@ -1,7 +1,7 @@
 # NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions
 
 <div align="center">
-    <img src="assets/teaser.svg">
+    <img src="assets/teaser.svg" width="60%">
     <p></p>
 </div>
 
