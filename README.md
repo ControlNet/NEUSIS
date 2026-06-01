@@ -18,10 +18,13 @@
     <a href="https://arxiv.org/abs/2409.10196">
         <img src="https://img.shields.io/badge/arXiv-2409.10196-b31b1b.svg?style=flat-square">
     </a>
+    <a href="https://ieeexplore.ieee.org/document/11091489">
+        <img src="https://img.shields.io/badge/IEEE-RA--L%202025-00629B.svg?style=flat-square">
+    </a>
 </div>
 
 
-**This repo is the official repository for the paper [NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions](https://arxiv.org/abs/2409.10196).**
+**This repo is the official repository for the paper [NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions](https://ieeexplore.ieee.org/document/11091489), published in IEEE Robotics and Automation Letters (RA-L), 2025.**
 
 ## Abstract
 
@@ -32,14 +35,18 @@ This paper addresses the problem of autonomous UAV search missions, where a UAV 
 https://github.com/user-attachments/assets/8f1b0b7c-ab10-42a3-b63f-1acf975ca5fd
 
 
-## References
+## Citation
 If you find this work useful for your research, please consider citing it.
 
 ```bibtex
-@article{cai2024neusis,
+@article{cai2025neusis,
   title={NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions},
-  author={Cai, Zhixi and Cardenas, Cristian Rojas and Leo, Kevin and Zhang, Chenyuan and Backman, Kal and Li, Hanbing and Li, Boying and Ghorbanali, Mahsa and Datta, Stavya and Qu, Lizhen and Santiago, Julian Gutierrez and Ignatiev, Alexey and Li, Yuan-Fang and Vered, Mor and Stuckey, Peter J. and Garcia de la Banda, Maria and Rezatofighi, Hamid},
-  journal={arXiv preprint arXiv:2409.10196},
-  year={2024}
+  author={Cai, Zhixi and Cardenas, Cristian Rojas and Leo, Kevin and Zhang, Chenyuan and Backman, Kal and Li, Hanbing and Li, Boying and Ghorbanali, Mahsa and Datta, Stavya and Qu, Lizhen and Gutierrez, Julian and Ignatiev, Alexey and Li, Yuan-Fang and Vered, Mor and Stuckey, Peter J. and {De La Banda}, Maria Garcia and Rezatofighi, Hamid},
+  journal={IEEE Robotics and Automation Letters},
+  volume={10},
+  number={9},
+  pages={9502--9509},
+  year={2025},
+  doi={10.1109/LRA.2025.3592098}
 }
 ```
